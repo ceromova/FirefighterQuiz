@@ -2,19 +2,21 @@ import React, { useState, useRef } from 'react';
 
 const questions = [
   {
-    question: "What is the capital of France?",
-    choices: ["Paris", "London", "Madrid", "Berlin"],
+    question: ".-Según el manual de IVASPE, penetrar y progresar en ambientes con algún tipo de riesgo químico, se le conoce como:",
+    choices: ["Buceo en humos", "Buceo químico", "Buceo tóxico", "Buceo en atmosfera de riesgo"],
+    correctAnswerIndex: 1
+  },
+  {
+    question: "- Según el manual del IVASPE, en caso de que suene la alarma acústica de reserva de aire del ERA:",
+    choices: ["- El binomio deberá plantearse la salida de la zona caliente", "El bombero deberá plantearse la salida de la zona caliente y su binomio deberá esperar sin \
+    avanzar la llegada de otro compañero para formar un nuevo binomio", "- El binomio deberá plantearse la salida de la zona caliente y su binomio continuará realizando el \
+    trabajo", "El binomio esperará hasta apurar toda la botella"],
     correctAnswerIndex: 0
   },
   {
-    question: "What is the largest ocean?",
-    choices: ["Atlantic", "Indian", "Arctic", "Pacific"],
-    correctAnswerIndex: 3
-  },
-  {
-    question: "What is the highest mountain in the world?",
-    choices: ["Kilimanjaro", "Everest", "Fuji", "Matterhorn"],
-    correctAnswerIndex: 1
+    question: " Según el manual del IVASPE, entre las consecuencias de una baja visibilidad no tendremos:",
+    choices: ["Desorientación", "Caídas", "Agotamiento del ERA", "Todas las respuestas pueden ser consecuencias de una baja visibilidad"],
+    correctAnswerIndex: 2
   }
 ];
 
@@ -47,7 +49,7 @@ const Quiz = () => {
 
   return (
     <div>
-      <h2>{currentQuestion.question}</h2>
+      <h2 className='Prueba'>{currentQuestion.question}</h2>
       {currentQuestion.choices.map((choice, index) => (
         <div key={index} onClick={() => handleAnswerSelection(index)}>
           <input type="radio" name="answer" checked={index === selectedAnswer} />
