@@ -1,37 +1,135 @@
 {
-    "tema1": [
+    "TEMA G1": [
       {
-        "question": "a",
-        "choices": ["Buceo en humos", "Buceo químico", "Buceo tóxico", "Buceo en atmosfera de riesgo"],
+        "question": "¿Qué es el fuego y cuáles son sus tres elementos básicos?",
+        "choices": [
+        "El fuego es un proceso químico de oxidación que se produce a temperaturas elevadas, y sus elementos básicos son el oxígeno, el nitrógeno y el hidrógeno.",
+        "El fuego es una reacción física que se produce cuando se combinan el oxígeno, el fuego y el agua.",
+        "El fuego es una combustión que se produce cuando se mezclan el oxígeno, el combustible y la temperatura adecuada.",
+        "El fuego es una explosión que se produce cuando se mezclan el oxígeno, el gas y la electricidad."
+      ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "¿Cuáles son las principales características de los incendios urbanos?",
+        "choices": [
+        "Los incendios urbanos suelen ser de baja intensidad y fácil control, y no presentan grandes riesgos para los bomberos.",
+        "Los incendios urbanos suelen ser de alta intensidad y presentar grandes riesgos para los bomberos, debido a la gran cantidad de combustibles presentes en las ciudades.",
+        "Los incendios urbanos suelen ser provocados por causas naturales, como la caída de rayos o las tormentas.",
+        "Los incendios urbanos suelen ser causados por el mal uso de aparatos electrónicos y electrodomésticos."
+      ],
         "correctAnswerIndex": 1
       },
       {
-        "question": "Según el manual del IVASPE, en caso de que suene la alarma acústica de reserva de aire del ERA:",
-        "choices": ["El binomio deberá plantearse la salida de la zona caliente", "El bombero deberá plantearse la salida de la zona caliente y su binomio deberá esperar sin avanzar la llegada de otro compañero para formar un nuevo binomio", "El binomio deberá plantearse la salida de la zona caliente y su binomio continuará realizando el trabajo", "El binomio esperará hasta apurar toda la botella"],
+        "question": "¿Qué son los agentes extintores y cuáles son los más comunes?",
+        "choices": [
+        "Los agentes extintores son sustancias químicas que se utilizan para apagar el fuego, y los más comunes son el agua, el dióxido de carbono y el nitrógeno.",
+        "Los agentes extintores son herramientas mecánicas que se utilizan para controlar el fuego, y los más comunes son las mangueras y los extintores portátiles.",
+        "Los agentes extintores son equipos de protección personal que utilizan los bomberos para protegerse del fuego, y los más comunes son los trajes ignífugos y los cascos de seguridad.",
+        "Los agentes extintores son sistemas automáticos de detección y extinción de incendios, y los más comunes son los rociadores y los sistemas de espuma."
+      ],
         "correctAnswerIndex": 0
       },
       {
-        "question": "Según el manual del IVASPE, entre las consecuencias de una baja visibilidad no tendremos:",
-        "choices": ["Desorientación", "Caídas", "Agotamiento del ERA", "Todas las respuestas pueden ser consecuencias de una baja visibilidad"],
-        "correctAnswerIndex": 2
+        "question": "¿Cuál es el objetivo de la ventilación en un incendio?",
+        "choices": [
+          "El objetivo de la ventilación es aumentar la intensidad del fuego, para que se extienda más rápidamente y sea más fácil de controlar.",
+          "El objetivo de la ventilación es proporcionar aire fresco a los bomberos que están trabajando en el interior del edificio afectado por el fuego.",
+          "El objetivo de la ventilación es controlar la dirección y la intensidad del fuego, para evitar que se extienda a otras áreas del edificio.",
+          "Es un sistema que permite a los bomberos acceder a la red eléctrica del edificio para controlar el incendio."
+        ],
+        "correctAnswerIndex": 1
       }
     ], 
   
-    "tema2": [
+    "TEMA G2": [
       {
-        "question": "Según el manual de IVASPE, penetrar y progresar en ambientes con algún tipo de riesgo químico, se le conoce como:",
-        "choices": ["Buceo en humos", "Buceo químico", "Buceo tóxico", "Buceo en atmosfera de riesgo"],
-        "correctAnswerIndex": 1
+        "question": "¿Qué es lo que más te gusta de Alejandro?",
+        "choices": [
+          "La forma que tiene de hacerme reír de las formas más ingeniosas, dulces y divertidas que jamás he visto.",
+          "Su forma de disfrutar de las pequeñas cosas y la ilusión que tiene de querer compartirlas conmigo.",
+          "El increíble e inocente corazón que tiene que no le cabe en el pecho.",
+          "Todas las respuestas son correctas..."
+        ],
+        "correctAnswerIndex": 3
       },
       {
-        "question": "Según el manual del IVASPE, en caso de que suene la alarma acústica de reserva de aire del ERA:",
-        "choices": ["El binomio deberá plantearse la salida de la zona caliente", "El bombero deberá plantearse la salida de la zona caliente y su binomio deberá esperar sin avanzar la llegada de otro compañero para formar un nuevo binomio", "El binomio deberá plantearse la salida de la zona caliente y su binomio continuará realizando el trabajo", "El binomio esperará hasta apurar toda la botella"],
-        "correctAnswerIndex": 0
+        "question": "¿Qué te gustaría que Alejandro escuchara?",
+        "choices": [
+          "Que no es lo mismo de antes... y quizás eso a ambos nos duele mucho, más de lo que imaginamos.",
+          "Soy consciente de que te he puesto en un segundo plano por miedo a que me hicieras más daño, y he acabado haciéndote daño a ti.",
+          "Que lo siento, mucho, por no darte lo que te mereces.",
+          "Todas las respuestas son correctas..."
+        ],
+        "correctAnswerIndex": 3
       },
       {
-        "question": "Según el manual del IVASPE, entre las consecuencias de una baja visibilidad no tendremos:",
-        "choices": ["Desorientación", "Caídas", "Agotamiento del ERA", "Todas las respuestas pueden ser consecuencias de una baja visibilidad"],
-        "correctAnswerIndex": 2
+        "question": "¿Qué te gustaría que Alejandro supiera o hiciera ahora?",
+        "choices": [
+          "Que no esté triste por la situación, donde hay chispa siempre volverá a haber fuego... (como casi-bombero debería saberlo)",
+          "Que se sintiera valorado, porque lo vale todo y más. Y si no he podido demostrárselo, quiero poder hacerlo.",
+          "Que ojalá pudiéramos vernos y fundirnos en un abrazo.",
+          "Todas las respuestas son correctas..."
+        ],
+        "correctAnswerIndex": 3
       }
-    ] 
+
+
+
+    ], 
+    "TEMA G3": [], 
+    "TEMA G4": [], 
+    "TEMA G5": [], 
+    "TEMA G6": [], 
+    "TEMA G7": [], 
+    "TEMA G8": [], 
+    "TEMA G9": [], 
+    "TEMA G10": [],
+
+    "TEMA CV1": [], 
+    "TEMA CV2": [], 
+    "TEMA CV3": [], 
+    "TEMA CV4": [], 
+    "TEMA CV5": [], 
+    "TEMA CV6": [], 
+    "TEMA CV7": [], 
+    "TEMA CV8": [], 
+    "TEMA CV9": [], 
+    "TEMA CV10": [], 
+    "TEMA CV11": [], 
+    "TEMA CV12": [], 
+    "TEMA CV13": [], 
+    "TEMA CV14": [], 
+    "TEMA CV15": [], 
+    "TEMA CV16": [], 
+    "TEMA CV17": [], 
+    "TEMA CV18": [], 
+    "TEMA CV19": [], 
+    "TEMA CV20": [], 
+    "TEMA CV21": [], 
+    "TEMA CV22": [], 
+    "TEMA CV23": [], 
+    "TEMA CV24": [], 
+    "TEMA CV25": [], 
+    "TEMA CV26": [], 
+    "TEMA CV27": [], 
+    "TEMA CV28": [], 
+    "TEMA CV29": [], 
+    "TEMA CV30": [], 
+    "TEMA CV31": [], 
+    "TEMA CV32": [], 
+    "TEMA CV33": [], 
+    "TEMA CV34": [], 
+
+    "TEMA SPEIS 1": [],
+    "TEMA SPEIS 2": [],
+    "TEMA SPEIS 3": [],
+    "TEMA SPEIS 4": [],
+    "TEMA SPEIS 5": [],
+    "TEMA SPEIS 6": [],
+    "TEMA SPEIS 7": [],
+    "TEMA SPEIS 8": [],
+    "TEMA SPEIS 9": [],
+    "TEMA SPEIS 10": [],
+    "TEMA SPEIS 11": []
   }
