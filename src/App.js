@@ -5,9 +5,7 @@ import Question from './Selector';
 
 function App() {
   return (
-    <div className="App">
       <Question/>
-    </div>
   );
 }
 

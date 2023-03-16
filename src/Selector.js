@@ -9,7 +9,8 @@ export default function Selector() {
 
     const [selected, setSelected] = useState()
     if (!selected) {
-    return <select onChange={event => setSelected(event.target.value)}> <option> Selecciona tema </option>  {themes.map(theme => <option value={theme}> {theme} </option>)} </select>
+    return <select onChange={event => setSelected(event.target.value)}> <option> Selecciona tema </option>  {
+        themes.map(theme => <option key={theme} value={theme}> {theme} </option>)} </select>
     }
 
     return <Question questions={Questions[selected]} />
