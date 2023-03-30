@@ -1,5 +1,5 @@
 .Header {
-  color: blueviolet;
+  color: rgb(99, 91, 144);
 }
 
 body > div {
@@ -18,7 +18,7 @@ body {
   justify-items: center;
   justify-content: center;
   height: 100vh;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .Answer {

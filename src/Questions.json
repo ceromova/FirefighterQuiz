@@ -42,41 +42,7 @@
       }
     ], 
   
-    "TEMA G2": [
-      {
-        "question": "¿Qué es lo que más te gusta de Alejandro?",
-        "choices": [
-          "La forma que tiene de hacerme reír de las formas más ingeniosas, dulces y divertidas que jamás he visto.",
-          "Su forma de disfrutar de las pequeñas cosas y la ilusión que tiene de querer compartirlas conmigo.",
-          "El increíble e inocente corazón que tiene que no le cabe en el pecho.",
-          "Todas las respuestas son correctas..."
-        ],
-        "correctAnswerIndex": 3
-      },
-      {
-        "question": "¿Qué te gustaría que Alejandro escuchara?",
-        "choices": [
-          "Que no es lo mismo de antes... y quizás eso a ambos nos duele mucho, más de lo que imaginamos.",
-          "Soy consciente de que te he puesto en un segundo plano por miedo a que me hicieras más daño, y he acabado haciéndote daño a ti.",
-          "Que lo siento, mucho, por no darte lo que te mereces.",
-          "Todas las respuestas son correctas..."
-        ],
-        "correctAnswerIndex": 3
-      },
-      {
-        "question": "¿Qué te gustaría que Alejandro supiera o hiciera ahora?",
-        "choices": [
-          "Que no esté triste por la situación, donde hay chispa siempre volverá a haber fuego... (como casi-bombero debería saberlo)",
-          "Que se sintiera valorado, porque lo vale todo y más. Y si no he podido demostrárselo, quiero poder hacerlo.",
-          "Que ojalá pudiéramos vernos y fundirnos en un abrazo.",
-          "Todas las respuestas son correctas..."
-        ],
-        "correctAnswerIndex": 3
-      }
-
-
-
-    ], 
+    "TEMA G2": [], 
     "TEMA G3": [], 
     "TEMA G4": [], 
     "TEMA G5": [], 
@@ -89,7 +55,208 @@
     "TEMA CV1": [], 
     "TEMA CV2": [], 
     "TEMA CV3": [], 
-    "TEMA CV4": [], 
+    "TEMA CV4": [
+      {
+      "question": "¿Qué es la cartografía?",
+      "choices": [
+      "La representación a escala de las características de alguna parte del globo terrestre, desarrollada sobre una superficie plana",
+      "El conjunto de técnicas para el estudio y la interpretación de los mapas o representaciones del terreno",
+      "La ciencia que estudia la representación de la superficie del terreno sobre un plano, con todos sus accidentes detallados",
+      "La ciencia que estudia la forma y la magnitud del globo terrestre y la representación de grandes extensiones de su superficie, teniendo en cuenta la curvatura terrestre"
+      ],
+      "correctAnswerIndex": 1
+      },
+      {
+      "question": "Si nos indican que la localización de un accidente de tráfico se encuentra en las coordenadas (39.5082412 N, 1.11324367 O) en la proyección UTM, se trata de:",
+      "choices": [
+      "Coordenadas cartesianas",
+      "Coordenadas geográficas",
+      "Coordenadas cilíndricas",
+      "Coordenadas esféricas"
+      ],
+      "correctAnswerIndex": 0
+      },
+      {
+      "question": "Indica la opción incorrecta respecto a las características de las coordenadas UMT:",
+      "choices": [
+      "Se divide en 60 husos de 6º de longitud",
+      "El origen de coordenadas del hemisferio sur está a 10.000 km al oeste del meridiano central del huso",
+      "El territorio valenciano está comprendido entre los husos 30 y 31",
+      "Cada huso se divide en 20 bandas de 8º de amplitud, nombradas mediante letras de sur a norte"
+      ],
+      "correctAnswerIndex": 1
+      },
+      {
+      "question": "Una proyección que conserva áreas y superficies, pero introduce deformaciones en los ángulos y las formas de la superficie terrestre, es una proyección:",
+      "choices": [
+      "Equivalente",
+      "Conforme",
+      "Automecoica",
+      "Afiláctica"
+      ],
+      "correctAnswerIndex": 0
+      },
+      {
+      "question": "En términos cartográficos, la proyección de Lambert se caracteriza por:",
+      "choices": [
+      "Representar mediante líneas rectas los paralelos, el meridiano central como una línea perpendicular a éstos y el resto de meridianos, como curvas",
+      "Situar el ecuador como una línea recta dividida en partes iguales que marcan el paso de los meridianos, que vienen representados como elipses",
+      "Formar triángulos isósceles de base curva en los que todos los meridianos son líneas rectas que convergen en el polo más cercano",
+      "Ser una proyección discontinua, por lo tanto, la Tierra se ve representada en partes irregulares unidas"
+      ],
+      "correctAnswerIndex": 2
+      },
+      {
+      "question": "¿Qué datum utiliza el GPS a nivel mundial?",
+      "choices": [
+      "ED 1950",
+      "ERTS89",
+      "REGCAN95",
+      "WGS84"
+      ],
+      "correctAnswerIndex": 3
+      }, 
+      {
+        "question": "Indica la opción incorrecta sobre la proyección UTM:",
+        "choices": [
+        "Norte geográfico y norte cuadrícula coinciden en cada meridiano",
+        "El meridiano central del huso es automecoico",
+        "El origen de coordenadas es diferente en cada huso",
+        "Introduce deformaciones infinitas en los polos"
+        ],
+        "correctAnswerIndex": 0
+        },
+        {
+        "question": "En la subida a un pico que alterna llanuras con fuertes pendientes, ¿qué distancia será mayor?",
+        "choices": [
+        "Distancia reducida",
+        "Distancia geométrica",
+        "Distancia geográfica o topográfica",
+        "Distancia real o natural"
+        ],
+        "correctAnswerIndex": 2
+        },
+        {
+        "question": "Según el RD 1071/2007, de 27 de julio, el sistema geodésico de referencia oficial en España es:",
+        "choices": [
+        "WGS84",
+        "WGS84 y ETRS89",
+        "WGS84 y REGCAN95",
+        "ETRS89 y REGCAN95"
+        ],
+        "correctAnswerIndex": 3
+        },
+        {
+        "question": "¿A qué corresponden 180º sexagesimales?",
+        "choices": [
+        "200' centesimales",
+        "1600ºº milésimas militares",
+        "400' centesimales",
+        "8400ºº milésimas militares"
+        ],
+        "correctAnswerIndex": 0
+        },
+        {
+        "question": "En un mapa de escala 1:25.000 la distancia proyectada entre dos puntos es de 4 cm. Si la pendiente es del 10%, ¿cuál es la diferencia de cotas entre ambos puntos?",
+        "choices": [
+        "100 km",
+        "10 km",
+        "1.000 m",
+        "100 m"
+        ],
+        "correctAnswerIndex": 3
+        },
+        {
+        "question": "En términos cartográficos, ¿cómo se llaman las ondulaciones del terreno que presentan concavidad hacia el observador?",
+        "choices": [
+        "Saliente",
+        "Divisoria",
+        "Entrante",
+        "A y B son correctas"
+        ],
+        "correctAnswerIndex": 2
+        },
+        {
+        "question": "En términos geográficos, ¿cómo se llama el círculo máximo resultante de la intersección de un plano que contiene el eje de revolución de la Tierra?",
+        "choices": [
+        "Paralelo",
+        "Meridiano",
+        "Latitud",
+        "Polo"
+        ],
+        "correctAnswerIndex": 1
+        },
+        {
+        "question": "Señala la respuesta incorrecta respecto a un mapa con escala reducida:",
+        "choices": [
+        "En la escala numérica, el denominador es menor que el numerador",
+        "Los objetos tienen un tamaño mayor al de su representación en el mapa",
+        "Este tipo de mapa representa la superficie eludiendo la esfericidad terrestre",
+        "Cuánto más pequeña la escala, más superficie terrestre puede representar"
+        ],
+        "correctAnswerIndex": 2
+        },
+        {
+        "question": "Trabajando con un mapa UTM y una brújula, tenemos un rumbo de 60º, una orientación de 30º y una convergencia de -10º. ¿Qué azimut debemos seguir?",
+        "choices": [
+        "50º",
+        "40º",
+        "30º",
+        "20º"
+        ],
+        "correctAnswerIndex": 3
+        },
+        {
+          "question": "¿Qué es una hisohipsa?",
+          "choices": [
+          "Una línea trazada en un mapa que une puntos de la superficie terrestre con la misma altitud",
+          "Una curva de nivel representada en los mapas cartográficos convencionales",
+          "Una línea color siena donde la altura geopotencial tiene el mismo valor",
+          "Todas son correctas"
+          ],
+          "correctAnswerIndex": 3
+          },
+          {
+          "question": "En el vocabulario cartográfico, ¿cómo se conoce a la diferencia de cota entre las curvas de nivel que pasan por dos puntos diferentes?",
+          "choices": [
+          "Equidistancia",
+          "Pendiente",
+          "Desnivel",
+          "Altitud"
+          ],
+          "correctAnswerIndex": 2
+          },
+          {
+          "question": "¿Qué dirección tiene el viento de mistral, según la rosa de los vientos?",
+          "choices": [
+          "Noreste",
+          "Noroeste",
+          "Sureste",
+          "Suroeste"
+          ],
+          "correctAnswerIndex": 1
+          },
+          {
+          "question": "¿Cómo se llama la parte de la brújula que cuenta con una esfera graduada que se utiliza para medir rumbos?",
+          "choices": [
+          "Gnomón",
+          "Aliada o mira",
+          "Flecha de orientación",
+          "Limbo"
+          ],
+          "correctAnswerIndex": 3
+          },
+          {
+          "question": "El nivel 12 en la escala de Beaufort corresponde a la denominación:",
+          "choices": [
+          "Huracán",
+          "Tempestad violenta",
+          "Temporal",
+          "Muy duro"
+          ],
+          "correctAnswerIndex": 0
+          }
+          ],
     "TEMA CV5": [], 
     "TEMA CV6": [], 
     "TEMA CV7": [], 
@@ -99,7 +266,58 @@
     "TEMA CV11": [], 
     "TEMA CV12": [], 
     "TEMA CV13": [], 
-    "TEMA CV14": [], 
+    "TEMA CV14": [
+      {
+          "question": "Según el manual del IVASPE, ¿cuál es la normativa donde se recoge el uso y las características de las espumas extintoras tipo N.A.F.S (por aspiración en boquilla)? ",
+          "choices": [
+              "UNE 23600",
+              "UNE 23603",
+              "UNE-EN 1568",
+              "Recogen en todas las respuestas mencionadas"
+          ],
+          "correctAnswerIndex": 3
+      },
+      {
+          "question": "Según el manual del IVASPE, señala cual de las siguientes respuestas no corresponde a la definición reflejada en la norma NFPA 11 atendiendo a la espuma contra incendios: ",
+          "choices": [
+              "Agregado de burbujas llenas de aire, formadas a partir de una solución acuosa de mayor densidad que la de cualquier líquido inflamable.",
+              "Previene las reígniciones al suprimir la emisión de gases inflamables",
+              "Se utiliza principalmente para formar una capa flotante cohesionada en líquidos inflamables y combustibles y excluir el aire y refrigerar el combustible",
+              "Todas las respuestas corresponden a la definición reflejada en la norma NFPA 11 atendiendo a la espuma contra incendios"
+          ],
+          "correctAnswerIndex": 0
+      },
+      {
+          "question": "Según el Manual del IVASPE, ¿a que denominamos como concentrado liquido de agente emulsor?",
+          "choices": [
+              "Espumante",
+              "Espumógeno",
+              "Espuma",
+              "Ninguna de las respuestas es correcta"
+          ],
+          "correctAnswerIndex": 1
+      },
+      {
+          "question": "Según el Manual del IVASPE, ¿cuál de los siguientes productos o compuestos, contendrá un concentrado liquido de agente emulsor?",
+          "choices": [
+              "Espumante",
+              "Espumógeno",
+              "Espuma",
+              "Todas las respuestas son correctas"
+          ],
+          "correctAnswerIndex": 3
+      },
+      {
+          "question": "Según el manual del IVASPE, ¿cuál será la composición de los concentrados líquidos de agente emulsor?",
+          "choices": [
+              "Base proteínica",
+              "Base sintética",
+              "Base fluoproteínica",
+              "Base alcohólica"
+          ],
+          "correctAnswerIndex": 0
+      }
+      ],       
     "TEMA CV15": [], 
     "TEMA CV16": [], 
     "TEMA CV17": [], 
