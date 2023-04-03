@@ -265,7 +265,208 @@
     "TEMA CV10": [], 
     "TEMA CV11": [], 
     "TEMA CV12": [], 
-    "TEMA CV13": [], 
+    "TEMA CV13": [
+      {
+        "question": "Según el Manual del IVASPE, ¿Cuál de las siguientes características no pertenece a las mangueras de impulsión tipo BLINDEX?",
+        "choices": [
+        "Disponen de una cuarta capa de himex vitivinilo",
+        "Soportan temperaturas de 600”%C a una presión estática de 700 kPa, durante 60 segundos sin dañar el refuerzo sintético",
+        "Son de color amarillo",
+        "Disponen de tres capas de caucho nitrílico sintético de alta resistencia"
+        ],
+        "correctAnswerIndex": 0
+        },
+        {
+          "question": "Según el Manual del IVASPE, ¿qué entendemos como “tasa de concentración”?",
+          "choices": [
+          "Es el resultado en tanto por ciento del cociente entre el volumen de espumógeno y el volumen de espuma",
+          "Ninguna es correcta",
+          "Es el resultado en tanto por ciento del cociente entre el volumen espumante y el volumen de espuma",
+          "Es el resultado en tanto por ciento del cociente entre el volumen de espumógeno y la mezcla espumante."
+          ],
+          "correctAnswerIndex": 3
+          },
+          {
+          "question": "Según el Manual del IVASPE, y atendiendo al agua como agente extintor, ¿cuál será el tamaño óptimo de la gota para poder realizar con garantías y con eficiencia una extinción mediante agua pulverizada?",
+          "choices": [
+          "Entre 0,3 y 1 mm, con una presión en punta de lanza de entre 8-10 b",
+          "Entre 0,1 y 0,3 mm, con una presión en punta de lanza de entre 7-8 b",
+          "Entre 0,1 y 0,3 mm, con una presión en punta de lanza de entre 8-10 b",
+          "Entre 0,3 y 1 mm, con una presión en punta de lanza de entre 7-8 b"
+          ],
+          "correctAnswerIndex": 3
+          },
+          {
+          "question": "Según el Manual del IVASPE, y atendiendo a la visualización y presentación de los extintores, señala cuál de las siguientes características es incorrecta:",
+          "choices": [
+          "El cuerpo del extintor puede ser de acero al carbono",
+          "Todas las respuestas mencionadas son correctas",
+          "El color del extintor deberá ser rojo en el 95% de su superficie",
+          "El agente extintor va contenido en un recipiente que puede ser de acero inoxidable"
+          ],
+          "correctAnswerIndex": 1
+          },
+          {
+          "question": "Según el Manual del IVASPE, ¿cuál es la normativa que definen las características y exigencias mínimas que deben cumplir los componentes de los hidrantes de Húmedo de arqueta?",
+          "choices": [
+          "UNE EN 14384:2006",
+          "UNE 23406",
+          "UNE 23405",
+          "UNE 23407"
+          ],
+          "correctAnswerIndex": 3
+          },
+          {
+            "question": "Según el Manual del IVASPE, y atendiendo a las halones como agente extintor, señala cuál de las siguientes características pertenece al FLÚOR como factor influyente en un gas halón:",
+            "choices": [
+            "Reduce estabilidad al compuesto",
+            "Reduce la estabilidad térmica",
+            "Reduce el punto de ebullición",
+            "Aumenta la toxicidad"
+            ],
+            "correctAnswerIndex": 2
+            },
+            {
+            "question": "Según el Manual del IVASPE, y atendiendo a las halones como agente extintor, señala la respuesta correcta:",
+            "choices": [
+            "Los halones son compuestos orgánicos derivados generalmente del metano y del etano en los que se han sustituido uno o más átomos de hidrógeno por elementos halógenos como el flúor, cloro, bromo o yodo",
+            "Los halones son compuestos orgánicos derivados generalmente del metano y del butano en los que se han sustituido uno 0 más átomos de hidrógeno por elementos halógenos como el flúor, cloro, bromo o yodo",
+            "Los halones son compuestos orgánicos derivados generalmente del propano y del etano en los que se han sustituido uno o más átomos de hidrógeno por elementos halógenos como el flúor, cloro, bromo o yodo",
+            "Los halones son compuestos orgánicos derivados generalmente del metano y del propano en los que se han sustituido uno o más átomos de hidrógeno por elementos halógenos como el flúor, cloro, bromo o yodo"
+            ],
+            "correctAnswerIndex": 0
+            },
+            {
+            "question": "Según el Manual del IVASPE, señala cuál de los siguientes no será un peligro en la utilización de las mangueras de impulsión contra-incendios:",
+            "choices": [
+            "Si los empujes son elevados no pisar la manguera ni curvarla hacia arriba",
+            "Cuando la lanza tienda a escaparse, soltarla para que no nos genere ningún impacto fortuito",
+            "Abrir ni cerrar la lanza bruscamente ya que podría producir un golpe de ariete.",
+            "Sentarse sobre ella y curvarla para disminuir los empujes sensiblemente"
+            ],
+            "correctAnswerIndex": 3
+            },
+            {
+            "question": "Según el Manual del IVASPE, y atendiendo al agua como agente extintor, ¿cuál será la eficacia del agua pulverizada respecto al agua a chorro?",
+            "choices": [
+            "El agua pulverizada será 7,3 veces más eficaz que el agua a chorro en las mismas condiciones, ya que aumenta la superficie de contacto del agua con la llama",
+            "El agua a chorro será 7,3 veces menos eficaz que el agua pulverizada en las mismas condiciones, ya que disminuye la superficie de contacto del agua con la llama",
+            "El agua pulverizada será 7,3 veces más eficaz que el agua a chorro en las mismas condiciones, ya que disminuye la superficie de contacto del agua con la llama",
+            "Ninguna de las respuestas es correcta"
+            ],
+            "correctAnswerIndex": 0
+            },
+            {
+              "question": "Según el Manual del IVASPE, ¿cuál será el diámetro de rosca que debe de tener en la entrada de una columna/torre de hidrante, utilizada para la carga de los vehículos de bomberos como norma general?",
+              "choices": [
+              "80/110 mm",
+              "70/100 mm",
+              "80/100",
+              "70/110 mm"
+              ],
+              "correctAnswerIndex": 2
+              },
+              {
+                "question": "Según el Manual del IVASPE, ¿qué entendemos como 'tasa de concentración'?",
+                "choices": [
+                "Es el resultado en tanto por ciento del cociente entre el volumen de espumógeno y el volumen de espuma",
+                "Ninguna es correcta",
+                "Es el resultado en tanto por ciento del cociente entre el volumen espumante y el volumen de espuma",
+                "Es el resultado en tanto por ciento del cociente entre el volumen de espumógeno y la mezcla espumante."
+                ],
+                "correctAnswerIndex": 3
+                },
+                {
+                  "question": "Según el Manual del IVASPE, y atendiendo a la normativa de los extintores, ¿cuál de los siguientes caracteres no deberá de contener la etiqueta de características?",
+                  "choices": [
+                  "Eficacia",
+                  "Intensidad eléctrica sobre la que puede trabajar",
+                  "Todos caracteres mencionados deberán ir colocados en la etiqueta de características |",
+                  "Naturaleza del agente propulsor"
+                  ],
+                  "correctAnswerIndex": 3
+                  },
+                  {
+                  "question": "Según el Manual del IVASPE, ¿cuál de los siguientes productos o compuestos, contendrá un concentrado líquido de agente emulsor?",
+                  "choices": [
+                  "Todas las respuestas son correctas",
+                  "Espumógeno",
+                  "Espumante",
+                  "Espuma"
+                  ],
+                  "correctAnswerIndex": 0
+                  },
+                  {
+                  "question": "Según el Manual del IVASPE, ¿Qué normativa regula los hidrantes bajo nivel de tierra?",
+                  "choices": [
+                  "UNE EN 14348:2006",
+                  "UNE EN 14393:2006",
+                  "UNE EN 143339:2006",
+                  "UNE EN 14384:2006"
+                  ],
+                  "correctAnswerIndex": 2
+                  },
+                  {
+                  "question": "Según el manual del IVASPE, ¿cuál de las siguientes respuestas no es un tipo de instalaciones de espuma que se pueda utilizar?",
+                  "choices": [
+                  "Mediante un depósito externo y el premezclador del vehículo",
+                  "Mediante un generador de espuma de media expansión (ventilador con tamiz)",
+                  "Mediante depósito de espumógeno y el premezclador del vehículo",
+                  "Mediante un premezclador y un depósito externo"
+                  ],
+                  "correctAnswerIndex": 1
+                  },
+                  {
+                    "question": "Según el Manual del IVASPE, y atendiendo al dióxido de carbono como agente extintor, ¿en que basa su método de extinción?",
+                    "choices": [
+                    "Principalmente por enfriamiento, en menor medida por sofocación y en casos muy puntuales mediante eliminación del combustible",
+                    "Principalmente por sofocación y en menor medida por enfriamiento",
+                    "Principalmente por enfriamiento y en menor medida por sofocación",
+                    "Principalmente por enfriamiento y en menor medida por sofocación y inhibición"
+                    ],
+                    "correctAnswerIndex": 1
+                    },
+                    {
+                    "question": "Según el Manual del IVASPE, ¿cuál es la normativa que definen las características y exigencias mínimas que deben cumplir los componentes de los hidrantes de columna seca?",
+                    "choices": [
+                    "UNE 23406",
+                    "UNE 23405",
+                    "UNE 23407",
+                    "UNE EN 14339"
+                    ],
+                    "correctAnswerIndex": 1
+                    },
+                    {
+                    "question": "Según el Manual del IVASPE, señala la respuesta correcta en referencia a los racores Barcelona:",
+                    "choices": [
+                    "El racor normalizado según norma UNE 23400 es simétrico. Cada semi-racor tiene tres orejas para su acoplamiento con otro semi-racor",
+                    "El racor normalizado según norma UNE 23400 es asimétrico. Cada semi-racor tiene tres orejas para su acoplamiento con otro semi-racor",
+                    "El racor normalizado según norma UNE 23400 es simétrico. Cada semi-racor tiene tres o cuatro orejas para su acoplamiento con otro semi-racor",
+                    "El racor normalizado según norma UNE 23400 es asimétrico. Cada semi-racor tiene tres o cuatro orejas para su acoplamiento con otro semi-racor."
+                    ],
+                    "correctAnswerIndex": 0
+                    },
+                    {
+                    "question": "Según el Manual del IVASPE, y atendiendo a las halones como agente extintor, señala cuál de las siguientes características pertenece al BROMO como factor influyente en un gas halón:",
+                    "choices": [
+                    "Reduce la toxicidad",
+                    "Aumenta el punto de ebullición",
+                    "Aumenta la estabilidad térmica",
+                    "Ninguna de las respuestas es correcta"
+                    ],
+                    "correctAnswerIndex": 1
+                    },
+                    {
+                    "question": "Según el Manual del IVASPE, y atendiendo al AGUA como agente extintor, ¿ cual es el calor específico del agua en estado gaseoso?",
+                    "choices": [
+                    "1 cal/gr xC",
+                    "0.5 cal/gr xC",
+                    "0.5 cal x gr/*C",
+                    "1 cal xgr/*C"
+                    ],
+                    "correctAnswerIndex": 1
+                    }
+    ], 
     "TEMA CV14": [
       {
           "question": "Según el manual del IVASPE, ¿cuál es la normativa donde se recoge el uso y las características de las espumas extintoras tipo N.A.F.S (por aspiración en boquilla)? ",
